@@ -1,0 +1,6 @@
+{
+  "name": "Kindred Crowdfunding",
+  "description": "Empowering communities through collective action. Radically transparent crowdfunding built for trust, tracking, and absolute impact.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
